@@ -1,7 +1,9 @@
 #WEB INTERFACE
+
 built a web application that can help todays youth to get employed without NQ12/ Metric.
 
-#Objectives
+#Objectives:
+
 -Unemployment Rate in %
 -Lack ins 
 -gender

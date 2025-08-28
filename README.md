@@ -74,9 +74,9 @@ Our primary audience includes:
 
 - eography: [Domestic market focus + global expansion potential]
 
-- Demographics & Psychographics:
+ Demographics & Psychographics:
 
-Tech-savvy, frequent streamers, social media users.
+- Tech-savvy, frequent streamers, social media users.
 
 - Value authenticity, diversity, and cultural representation.
 
@@ -94,9 +94,9 @@ Tech-savvy, frequent streamers, social media users.
 
 # 3.4 Competitive Landscape
 
-- Competitors include:
+ Competitors include:
 
-Major Players: Netflix, Disney, Warner Bros., Universal, Spotify, Live Nation (depending on niche).
+- Major Players: Netflix, Disney, Warner Bros., Universal, Spotify, Live Nation (depending on niche).
 
 - Mid-Tier/Indie Companies: Independent studios, record labels, streaming collectives, or event companies with strong followings.
 

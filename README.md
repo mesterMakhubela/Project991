@@ -19,13 +19,13 @@ built a web application that can help todays youth to get employed without NQ12/
 - Mission Statement: We deliver compelling stories, experiences, and performances through [film, music, live events, digital platforms], while nurturing creative talent and maximizing global reach.
   # Objectives (First 3 Years):
 
-Establish brand recognition and credibility within the entertainment industry.
+- Establish brand recognition and credibility within the entertainment industry.
 
-Launch [X number] of successful productions (albums, films, shows, or events).
+- Launch [X number] of successful productions (albums, films, shows, or events).
 
-Build strong partnerships with distributors, sponsors, and digital platforms.
+- Build strong partnerships with distributors, sponsors, and digital platforms.
 
-Achieve profitability by Year 3 through diversified revenue streams.
+- Achieve profitability by Year 3 through diversified revenue streams.
 
 # Company Overview
 
@@ -46,10 +46,10 @@ Achieve profitability by Year 3 through diversified revenue streams.
 
 # Competitive Advantage
 
-Access to fresh, untapped talent.
+- Access to fresh, untapped talent.
 
-Strong digital-first distribution strategy.
+- Strong digital-first distribution strategy.
 
-Niche positioning in [genre/market].
+- Niche positioning in [genre/market].
 
-Hybrid business model (traditional + digital).
+- Hybrid business model (traditional + digital).
